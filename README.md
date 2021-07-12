@@ -1,2 +1,2 @@
 # Competitive_Programming
-Solved Problem of various online judge.
+Solved Problem of various online judges.
